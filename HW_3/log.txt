@@ -1,0 +1,32 @@
+2023-09-29 19:12:41 INFO ====== WebDriver manager ======
+2023-09-29 19:12:43 INFO Get LATEST chromedriver version for google-chrome
+2023-09-29 19:12:44 INFO Get LATEST chromedriver version for google-chrome
+2023-09-29 19:12:45 INFO Driver [C:\Users\Natalya\.wdm\drivers\chromedriver\win64\117.0.5938.92\chromedriver-win32/chromedriver.exe] found in cache
+2023-09-29 19:12:47 INFO Test login_negative Starting
+2023-09-29 19:12:49 INFO Send 'test' to element //*[@id="login"]/div[1]/label/input
+2023-09-29 19:12:49 INFO Send 'test' to element //*[@id="login"]/div[2]/label/input
+2023-09-29 19:12:49 INFO Click login button
+2023-09-29 19:12:49 INFO Start find error text
+2023-09-29 19:12:50 INFO We find text '401' in error field //*[@id="app"]/main/div/div/div[2]/h2
+2023-09-29 19:12:50 INFO Test login_positive Starting
+2023-09-29 19:12:51 INFO Send 'Ilya2233' to element //*[@id="login"]/div[1]/label/input
+2023-09-29 19:12:51 INFO Send 'c34dceaab5' to element //*[@id="login"]/div[2]/label/input
+2023-09-29 19:12:51 INFO Click login button
+2023-09-29 19:12:51 INFO Start find success text
+2023-09-29 19:12:53 INFO We find text 'Hello, Ilya2233' in login field //*[@id="app"]/main/nav/ul/li[3]/a
+2023-09-29 19:12:53 INFO Test add_post Starting
+2023-09-29 19:12:53 INFO Click add post button
+2023-09-29 19:12:54 INFO Send 'My third post, created with the help of Selenium' to element //*[@id="create-item"]/div/div/div[1]/div/label/input
+2023-09-29 19:12:54 INFO Send 'This post has also been created with the help of Selenium' to element //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+2023-09-29 19:12:55 INFO Send 'This post has also been created with the help of Selenium and tests my home task code for GeekBrains course "Web-testing automation with the help of Python"' to element //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+2023-09-29 19:12:55 INFO Click save post button
+2023-09-29 19:12:55 INFO Start find new post
+2023-09-29 19:12:56 INFO We found new post title 'My third post, created with the help of Selenium' in field //*[@id="app"]/main/nav/ul/li[3]/a
+2023-09-29 19:12:56 INFO Start find new post
+2023-09-29 19:12:57 INFO We found new post title 'My third post, created with the help of Selenium' in field //*[@id="app"]/main/nav/ul/li[3]/a
+2023-09-29 19:12:57 INFO Test4 Starting
+2023-09-29 19:12:57 INFO Click create new post link contact us
+2023-09-29 19:13:02 INFO Send Ilya to element //*[@id="contact"]/div[1]/label/input
+2023-09-29 19:13:02 INFO Send Ilya2233@mail.ru to element //*[@id="contact"]/div[2]/label/input
+2023-09-29 19:13:02 INFO Send Application from Ilya2233 to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-09-29 19:13:03 INFO Click contact us button
