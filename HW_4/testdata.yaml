@@ -1,0 +1,20 @@
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+driver_path: chromedriver.exe
+browser: firefox
+login: Ilya2233
+password: c34dceaab5
+username: Ilya2233
+email: testbox2233@mail.ru
+sleep_time: 2
+implicitly_wait: 3
+post_title: Auto_API test post
+post_description: This is my Auto_API test post
+post_content: This Auto_API test post
+another_user_post_title: post from pycharm
+contact_us_text: Application from Ilya2233
+log_email: testbox2233@mail.ru
+log_email_pass: tb_pass@2233
+log_name: log.txt
+report_name: report.html
+application password: tb_pass@2233

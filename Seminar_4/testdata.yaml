@@ -1,0 +1,14 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+
+login: Ilya2233
+password: c34dceaab5
+
+title: NEW AUTO_API_TEST POST
+description: This is my NEW AUTO_API_TEST POST
+content: This is my NEW AUTO_API_TEST POST
+
+u_name: Ilya2233
+u_email: Ilya2233@mail.ru
+content_contact: Application form content from Ilya2233

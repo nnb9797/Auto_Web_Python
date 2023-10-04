@@ -1,0 +1,30 @@
+2023-10-04 13:41:31 INFO _____________REST test 1 is starting_____________
+2023-10-04 13:41:31 INFO Getting list of all users' posts...
+2023-10-04 13:41:33 INFO Success
+2023-10-04 13:41:33 INFO _____________REST test 2 is starting_____________
+2023-10-04 13:41:33 INFO Creating a new post...
+2023-10-04 13:41:34 INFO Success
+2023-10-04 13:41:34 INFO ====== WebDriver manager ======
+2023-10-04 13:41:35 INFO Get LATEST geckodriver version for 118.0 firefox
+2023-10-04 13:41:35 INFO Get LATEST geckodriver version for 118.0 firefox
+2023-10-04 13:41:36 INFO Driver [C:\Users\Natalya\.wdm\drivers\geckodriver\win64\v0.33.0\geckodriver.exe] found in cache
+2023-10-04 13:41:41 INFO _____________UI test 1 is starting_____________
+2023-10-04 13:41:42 INFO Send test to element Entering a login in an authorisation field
+2023-10-04 13:41:42 INFO Send test to element Entering a password in an authorisation field
+2023-10-04 13:41:43 INFO _____________UI test 2 is starting_____________
+2023-10-04 13:41:43 INFO Send Ilya2233 to element Entering a login in an authorisation field
+2023-10-04 13:41:43 INFO Send c34dceaab5 to element Entering a password in an authorisation field
+2023-10-04 13:41:44 INFO Success
+2023-10-04 13:41:45 INFO _____________UI test 3 is starting_____________
+2023-10-04 13:41:49 INFO Send Auto_API test post to element Entering a post title in a creating post form
+2023-10-04 13:41:49 INFO Send This is my Auto_API test post to element Entering a post description in a creating post form
+2023-10-04 13:41:49 INFO Send This Auto_API test post to element Entering post content in a creating post form
+2023-10-04 13:41:52 INFO Success
+2023-10-04 13:41:52 INFO _____________UI test 4 is starting_____________
+2023-10-04 13:41:56 INFO Send Ilya2233 to element Entering username in a contact us form
+2023-10-04 13:41:56 INFO Send testbox2233@mail.ru to element Entering an email in a contact us form
+2023-10-04 13:41:56 INFO Send Application from Ilya2233 to element Entering content in a contact us form
+2023-10-04 13:41:56 INFO Send testbox2233@mail.ru to element Entering content in a contact us form
+2023-10-04 13:41:58 INFO Success
+2023-10-04 13:41:58 INFO Get alert text
+2023-10-04 13:41:58 INFO Form successfully submitted

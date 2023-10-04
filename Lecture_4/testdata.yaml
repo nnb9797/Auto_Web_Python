@@ -1,0 +1,12 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+
+username: Ilya2233
+password: c34dceaab5
+u_name: Ilya2233
+u_email: textbox2233@mail.ru
+content_contact: Application from Ilya
+title: My API Post
+description: Api Post description
+content: API POST Content
